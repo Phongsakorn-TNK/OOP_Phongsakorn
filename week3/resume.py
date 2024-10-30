@@ -1,7 +1,7 @@
 print("กรอกข้อมูลส่วนตัว")
 name = str(input("โปรดกรอกชื่อ: "))
 age = int(input("โปรดกรอกอายุ: "))
-ID = int(input("โปรดกรอกรหัสประจำตัวนักเรียน: "))
+StuID = int(input("โปรดกรอกรหัสประจำตัวนักเรียน: "))
 level = int(input("โปรดกรอกระดับชั้น: "))
 nickname = str(input("โปรดกรอกชื่อเล่น: "))
 height = float(input("โปรดกรอกส่วนสูง: "))
