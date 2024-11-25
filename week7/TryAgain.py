@@ -1,7 +1,7 @@
 val = 0
 while True:
     try:
-        num = (input("ใส่ราคาสินค้า: "))
+        num = input("ใส่ราคาสินค้า: ")
         if num == "exit":
             break
 
