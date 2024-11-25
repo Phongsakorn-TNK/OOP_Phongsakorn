@@ -4,7 +4,7 @@ while True:
         num = (input("ใส่ราคาสินค้า: "))
         if num == "exit":
             break
-        
+
         num = int(num)
         if num == 0:
             raise ZeroDivisionError
